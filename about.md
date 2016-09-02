@@ -2,14 +2,19 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I'm software developer on great intrest to backend development. Most of the knowledge I have gained on my own (yeah, I like to stay awake late and wake up like zombie), however I am currently glimbing towards my BSc grade (Computer Science) at the local university. On my personal time I play football in Esiliiga B (3rd level in Estonia) with Fc Elva (been player there since 2003).
 
-### More Information
+### Skills
 
-A place to include any other types of information that you'd like to include about yourself.
+- Ruby/Rails/Rspec/Slim etc
+- HTML/CSS
+- JavaScript
+- SQL
+- Elixir (in the progress)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kaareltinn@hotmail.com](mailto:kaareltinn@hotmail.com)
