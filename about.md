@@ -5,15 +5,16 @@ permalink: /about/
 published: true
 ---
 
-I'm software developer on great intrest to backend development. Most of the knowledge I have gained on my own (yeah, I like to stay awake late and wake up like zombie), however I am currently glimbing towards my BSc grade (Computer Science) at the local university. On my personal time I play football in Esiliiga B (3rd level in Estonia) with Fc Elva (been player there since 2003).
+I'm software engineer and currently working in eAgronom, one of the fastest growing start-up in Estonia. I love clean, concise & simple code, especially when its functional.
 
 ### Skills
 
-- Ruby/Rails/Rspec/Slim etc
+- Ruby & Rails
 - HTML/CSS
-- JavaScript
+- JavaScript (React & Redux)
 - SQL
-- Elixir (in the progress)
+- Elixir
+- Elm
 
 ### Contact me
 
